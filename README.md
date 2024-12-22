@@ -1,0 +1,2 @@
+# Lazada Categories on Demand
+ We streamline online shopping by optimizing product categorization to assist new shoppers and boost seller visibility. Using data from over 4,486 Lazada categories, we clean, normalize, and reduce dimensions, leveraging a custom silhouette score to refine categories.  Our solution simplifies navigation, improves user experience, and drives sales for sellers, making e-commerce more intuitive and profitable.
